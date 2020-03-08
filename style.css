@@ -1,0 +1,39 @@
+.timer {
+    margin-right: 15px;
+}
+
+body {
+    background-color: teal;
+}
+
+.container {
+    text-align: center;
+    width: 550px;
+    margin-top: 100px;
+    background-color: ivory;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+header{
+    color:teal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.instructions {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:teal;
+    margin-top: 10px;
+}
+
+.button {
+    border-radius: 10px;
+    background-color: teal;
+    color: ivory;
+    margin-top: 15px;
+    padding: 5px;
+}
+
+#questions {
+    text-align: left;
+}
